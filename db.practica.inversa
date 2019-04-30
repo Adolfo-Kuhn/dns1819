@@ -1,0 +1,15 @@
+;
+; BIND reverse data file for broadcast zone
+;
+$TTL	604800
+@	IN	SOA	practicadaw.net.	practicadaw.net (
+			      1		; Serial
+			 604800		; Refresh
+			  86400		; Retry
+			2419200		; Expire
+			 604800 )	; Negative Cache TTL
+;
+				IN	NS	pc1.practicadaw.net.
+32				IN	PTR 	pc1.practicadaw.net.
+129				IN	PTR	pc2.practicadaw.net.
+11				IN	PTR	pc3.practicadaw.net.
