@@ -1,4 +1,7 @@
-// Este es el primer comentario que inserto Apartado 1
+// Este es el primer comentario que inserto Apartado 1 // // Este es el 
+segundo comentario que inserto Apartado 2 // // Este el el tercer 
+comentario que inserto Apartado 3 // // Do any local configuration here 
+// Este es el cuarto comentario que inserto Apartado 3-2
 //
 // Este es el segundo comentario que inserto Apartado 2
 //
@@ -6,7 +9,6 @@
 //
 //
 // Este es el comentario que inserto desde la rama master Apartado 3
-
 // Consider adding the 1918 zones here, if they are not used in your
 // organization
 //include "/etc/bind/zones.rfc1918";
